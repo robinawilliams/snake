@@ -30,7 +30,7 @@ Please share it.
 
 1. Question: I get the error message "import _tkinter # If this fails your Python may not be configured for Tk". How do I resolve this?
    
-   Answer: Install tkinter. 
-             - Arch - `sudo pacman -S tk`
-             - Debian - `sudo apt-get install tk`
-             - Fedora - `sudo dnf install tk`
+Answer: Install tkinter.  
+- Arch - `sudo pacman -S tk`  
+- Debian - `sudo apt-get install tk`  
+- Fedora - `sudo dnf install tk`
