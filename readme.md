@@ -1,15 +1,18 @@
-# python
+# Snake
 
 ## A python based version of the classic snake game. 
 
 ## How to install this project
 
 1. Clone this repo
-2. Install tkinter. Arch based example: `sudo pacman -S tk`
+2. Install tkinter: 
+   Arch - `sudo pacman -S tk`
+   Debian - `sudo apt-get install tk`
+   Fedora - `sudo dnf install tk`
 
 ## How to run this project
 
-1. run `python main.py`
+1. run the command - `python main.py`
 
 ## Find a bug?
 
@@ -25,4 +28,9 @@ Please share it.
 
 ## FAQ
 
-In progress.
+1. Question: I get the error message "import _tkinter # If this fails your Python may not be configured for Tk". How do I resolve this?
+   
+   Answer: Install tkinter. 
+            Arch - `sudo pacman -S tk`
+            Debian - `sudo apt-get install tk`
+            Fedora - `sudo dnf install tk`
